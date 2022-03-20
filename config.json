@@ -1,0 +1,7 @@
+{
+	"TextColor": 2,
+	"RefreshRate": 60,
+	"Feeds": [
+		{"title":"DistroWatch", "url":"https://distrowatch.com/news/dw.xml"}
+	]
+}
